@@ -1,0 +1,17 @@
+# Core
+numpy
+pandas
+scikit-learn
+tqdm
+
+# Deep Learning
+torch
+
+# RAG
+sentence-transformers
+faiss-cpu
+pypdf
+
+# API (later)
+fastapi
+uvicorn
